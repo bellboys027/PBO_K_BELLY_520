@@ -14,8 +14,8 @@ public class Main {
         System.out.println();
 
         // Daftar anggota
-        Anggota a1 = new Anggota("Adit", "B075");
-        Anggota a2 = new Anggota("Denis", "A047");
+        Anggota a1 = new Anggota("Adit Erpraja", "K531");
+        Anggota a2 = new Anggota("Belly Saputra", "K520");
 
         a1.display();
         a2.display();
